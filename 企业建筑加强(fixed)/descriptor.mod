@@ -1,0 +1,9 @@
+version="3.5.*"
+tags={
+	"Buildings"
+	"Balance"
+}
+picture="thumbnail.png"
+name="MEGACORP++"
+supported_version="3.5.*"
+remote_file_id="2850658404"
